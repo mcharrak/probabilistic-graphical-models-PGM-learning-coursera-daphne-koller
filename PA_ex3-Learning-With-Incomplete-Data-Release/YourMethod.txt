@@ -1,0 +1,5 @@
+Describe your method used to recognize the unknown actions here.
+
+My method: Increase size of poseData by adding noise to whole dataset and increasing the dataset size by factor of 2.
+
+However, this yields to a result evaluated as score 12.0. Even less than making no changes, which is evaluated as score 15.0.
